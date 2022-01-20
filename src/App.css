@@ -1,0 +1,8 @@
+.container {
+  display: flex;
+  margin-top: 10px;
+}
+
+.mr-2 {
+  margin-right: 2px;
+}
